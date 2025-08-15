@@ -1,5 +1,6 @@
 # 📸 Prévia do Projeto
-  > ![Print do projeto](./assets/Sorteador.png)
+> *(Insira aqui um print ou GIF mostrando o funcionamento do sorteador)*  
+> ![Print do projeto](./assets/Sorteador.png)
 
 # 🎲 Sorteador de Números
 
@@ -16,60 +17,26 @@ Ele permite ao usuário definir um intervalo mínimo e máximo e sortear um núm
 
 ---
 
-## 📂 Estrutura do Projeto
-- 📄 [index.html](https://github.com/alisson-miguelferreira/pagina-login/blob/main/index.html) — Página principal  
-- 🎨 [style.css](https://github.com/alisson-miguelferreira/pagina-login/blob/main/style.css) — Estilos do projeto (responsivo)  
-- ⚙️ [script.js](https://github.com/alisson-miguelferreira/pagina-login/blob/main/script.js) — Lógica do sorteio  
-- 📁 [assets](https://github.com/alisson-miguelferreira/pagina-login/tree/main/assets) — Pasta de imagens  
-  - 🖼️ [Sorteador.png](https://github.com/alisson-miguelferreira/pagina-login/blob/main/assets/Sorteador.png) — Print do projeto  
-  - 🖼️ [sort 1.png](https://github.com/alisson-miguelferreira/pagina-login/blob/main/assets/sort%201.png) — Imagem utilizada no layout  
+## 📂 Estrutura do Projeto (clicável)
+- 📄 [index.html](https://github.com/alisson-miguelferreira/sorteador/blob/main/index.html) — Página principal  
+- 🎨 [style.css](https://github.com/alisson-miguelferreira/sorteador/blob/main/style.css) — Estilos do projeto (responsivo)  
+- ⚙️ [script.js](https://github.com/alisson-miguelferreira/sorteador/blob/main/script.js) — Lógica do sorteio  
+- 📁 [assets/](https://github.com/alisson-miguelferreira/sorteador/tree/main/assets) — Pasta de imagens  
+  - 🖼️ [Sorteador.png](https://github.com/alisson-miguelferreira/sorteador/blob/main/assets/Sorteador.png) — Print do projeto  
+  - 🖼️ [sort 1.png](https://github.com/alisson-miguelferreira/sorteador/blob/main/assets/sort%201.png) — Imagem utilizada no layout  
+
 
 ---
 
 ## 🚀 Como Usar
-1. Acesse o projeto pelo link abaixo  
+1. Acesse o projeto: **[Sorteador ao vivo](https://alisson-miguelferreira.github.io/sorteador/)**  
 2. Defina os valores **mínimo** e **máximo**.  
-3. Clique no botão **"Sortear"** para gerar um número aleatório.  
-
----
-
-## 🌐 Visualização do Projeto
-🔗 [Acesse aqui o projeto ao vivo](https://alisson-miguelferreira.github.io/sorteador/)
+3. Clique no botão **“Sortear”** para gerar um número aleatório.  
 
 ---
 
 ## 🤝 Conecte-se Comigo
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alisson-miguelferreira/)  
 - 🐙 [GitHub](https://github.com/alisson-miguelferreira)  
-
----
-
-
-## Estrutura do Projeto
-```
-├── index.html        # Página principal
-├── style.css         # Estilos do projeto (responsivo)
-├── script.js         # Lógica do sorteio
-└── assets/
-    └── sort 1.png    # Imagem utilizada no layout
-```
-
-## Como usar
-1. Abra pelo link <a href="https://alisson-miguelferreira.github.io/pagina-login/">Sorteador</a>
-2. Defina os valores mínimo e máximo.
-3. Clique no botão "Sortear" para gerar um número aleatório.
-
----
-
-## 🌐 Visualização do Projeto
-
-Acesse o projeto ao vivo:  
-🔗 <a href="https://alisson-miguelferreira.github.io/pagina-login/">Página de Login</a>
-
----
-
-🤝 Conecte-se comigo
-🔗<a href="https://www.linkedin.com/in/alisson-miguelferreira/">LinkedIn</a>
-🐙 <a href="https://github.com/alisson-miguelferreira">GitHub</a>
 
 ---
