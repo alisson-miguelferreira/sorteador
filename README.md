@@ -27,14 +27,14 @@ Ele permite ao usuário definir um intervalo mínimo e máximo e sortear um núm
 ---
 
 ## 🚀 Como Usar
-1. Acesse o projeto pelo link: [Sorteador de Números](https://alisson-miguelferreira.github.io/pagina-login/)  
+1. Acesse o projeto pelo link abaixo  
 2. Defina os valores **mínimo** e **máximo**.  
 3. Clique no botão **"Sortear"** para gerar um número aleatório.  
 
 ---
 
 ## 🌐 Visualização do Projeto
-🔗 [Acesse aqui o projeto ao vivo](https://alisson-miguelferreira.github.io/pagina-login/)
+🔗 [Acesse aqui o projeto ao vivo](https://alisson-miguelferreira.github.io/sorteador/)
 
 ---
 
