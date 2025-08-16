@@ -6,4 +6,10 @@ function generateNumber(){
     const resultadoDiv = document.getElementById('resultado');
     resultadoDiv.textContent = result;
     resultadoDiv.classList.add('show');
+
+
+    if (min >= max) {
+        alert("O valor mínimo deve ser MENOR que o valor máximo.");
+        return;
+    }
 }
