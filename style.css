@@ -92,3 +92,92 @@ button {
     font-weight: bold;
     cursor: pointer;
 }
+
+/* Responsividade para mobile, tablets e telas grandes */
+@media (max-width: 1200px) {
+    .container-central {
+        padding: 0 10px;
+        gap: 18px;
+    }
+    .logo {
+        width: 320px;
+    }
+    .inputs {
+        width: 320px;
+        gap: 10px;
+    }
+    button {
+        width: 220px;
+        height: 46px;
+        font-size: 16px;
+    }
+    h2 {
+        font-size: 26px;
+    }
+    .resultado {
+        font-size: 2rem;
+        padding: 14px 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container-central {
+        min-height: 100vh;
+        padding: 0 6px;
+        gap: 14px;
+    }
+    .logo {
+        width: 180px;
+        border-radius: 10px;
+    }
+    .inputs {
+        width: 100%;
+        flex-direction: column;
+        gap: 8px;
+    }
+    button {
+        width: 100%;
+        height: 44px;
+        font-size: 15px;
+    }
+    h2 {
+        font-size: 20px;
+        white-space: normal;
+    }
+    .resultado {
+        font-size: 1.3rem;
+        padding: 10px 8px;
+        border-radius: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container-central {
+        min-height: 100vh;
+        padding: 0 2px;
+        gap: 10px;
+    }
+    .logo {
+        width: 120px;
+        border-radius: 8px;
+    }
+    .inputs {
+        width: 100%;
+        flex-direction: column;
+        gap: 6px;
+    }
+    button {
+        width: 100%;
+        height: 38px;
+        font-size: 14px;
+    }
+    h2 {
+        font-size: 16px;
+        white-space: normal;
+    }
+    .resultado {
+        font-size: 1rem;
+        padding: 8px 4px;
+        border-radius: 6px;
+    }
+}
